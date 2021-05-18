@@ -17,7 +17,7 @@ global osn_base
 #global test_day
 #global comm_admin
 #--------------------------------------------------------------------------------------------------------------------------
-bot = telebot.TeleBot('1292714271:AAFto5D4qOOmTbRDfYVY28DQguWr3FJWKlc', threaded=False)
+bot = telebot.TeleBot('Token', threaded=False)
 
 app = Flask(__name__)
 
